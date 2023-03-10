@@ -19,7 +19,7 @@ Procedure to run this code:
 
 download this repository in command-prompt:
 
-https://github.com/santhoshpandi/infixtopostfix-stack-java.git
+git clone https://github.com/santhoshpandi/infixtopostfix-stack-java.git
 
 and open in command-prompt / java editor:
 
